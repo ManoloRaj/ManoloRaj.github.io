@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Manolo Rajaonah.", "Developer.", "Network enginner.", "Data scientist"],
-      typeSpeed: 100,
+      strings: ["Manolo Rajaonah.", "Develloper.", "Network enginneer.", "Data scientist"],
+      typeSpeed: 70,
       loop: true,
     });
   });
