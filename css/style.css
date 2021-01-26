@@ -253,6 +253,13 @@ nav ul li a {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  
+}
+.header-content{
+	background-color : black;
+	opacity :0.5;
+	padding: 10%
+
 }
 
 .header-content h1 {
