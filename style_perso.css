@@ -1,0 +1,8 @@
+.social_media img{
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+.social_media img:hover{
+    transform: scale(1.1);
+}
