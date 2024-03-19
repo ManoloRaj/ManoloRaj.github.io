@@ -2757,14 +2757,17 @@ input::-moz-focus-inner {
 
 .item-folio {
   text-align: center;
-  padding: 60px;
-  background-color: #EFEFEF;
+  padding: 0px;
+  border-radius: 10px 10px;
+  background-color: #efefef80;
   transition: all 0.5s ease-in-out;
+  box-shadow: 0 0 50px rgba(107, 107, 107, 0.614);
 }
 
 /* item-folio thumb
  * -------------------------------------- */
 .item-folio__thumb {
+  border-radius: 10px 10px;
   position: relative;
   overflow: hidden;
 }
